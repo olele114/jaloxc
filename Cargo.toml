@@ -1,6 +1,11 @@
 [package]
 name = "jaloxc"
-version = "0.1.0"
+version = "0.0.1"
+authors = ["13237742998@163.com"]
+description = "A lox complier"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/olele114/jaloxc"
+documentation = "https://docs.rs/jaloxc"
 edition = "2024"
 
 [dependencies]
