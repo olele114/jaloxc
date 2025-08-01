@@ -2,6 +2,7 @@
 /// 
 /// Handles command-line interface, file execution, and REPL functionality.
 /// Coordinates scanning and token generation from source input.
+mod expr;
 mod token;
 mod scanner;
 
